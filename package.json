@@ -1,0 +1,7 @@
+{
+  "name": "pc-ma-trainer",
+  "version": "3.0.0",
+  "private": true,
+  "description": "PC-MA TRAINER - plataforma de estudo adaptativo com Gemini e Vercel Functions",
+  "engines": { "node": "20.x" }
+}
